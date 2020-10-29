@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-12-lectionRepeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Powerman-code/goit-js-hw-12-lectionRepeat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Powerman-code/goit-js-hw-12-lectionRepeat/issues"
+  },
+  "homepage": "https://github.com/Powerman-code/goit-js-hw-12-lectionRepeat#readme"
+}
